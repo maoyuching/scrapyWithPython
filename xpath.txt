@@ -1,0 +1,17 @@
+SCF=Avh0_aszm03EDhbPBhLKLzMm-lEmZcTWNpQrHxmq3ASgzFmvp5r-9UXkpkFL1ZAoLDhTr11GTiUa6J2lYwOFbPY.; _T_WM=ad5f1cb12be4f9fbd5f59720cf33cc91; SUB=_2A252XNPUDeRhGeNH4lcR9CrFzj2IHXVVvv2crDV6PUJbkdANLUOhkW1NSkv7AwT9XvnJGWCzqcGcQruOaaiMh5EC; SUHB=0tKqolLINoTzAu; SSOLoginState=1532535684
+杂粮微博 cookie
+
+//table//td[2]/a[1]/@href
+索引页的粉丝链接
+
+//div[@class="u"][1]//span[@class="ctt"]/text()
+用户id 地区 性别
+
+//div[@class="u"][1]/div/span/test()
+微博数
+
+//div[@class="u"][1]/div/a[1]/text()
+关注数
+
+//div[@class="u"][1]/div/a[2]/text()
+粉丝数
